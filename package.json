@@ -1,0 +1,17 @@
+{
+    "name": "atomize-server",
+    "author": "Matthew Sackman",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/atomizejs/atomize-server-node.git"
+    },
+    "main": "index",
+    "description": "Node server library for atomize: JavaScript DSTM",
+    "dependencies": {
+        "cereal": "*",
+        "atomize-client": ">=0.0.1",
+        "sockjs": ">=0.1.0"
+    },
+    "homepage": "http://atomizejs.github.com/"
+}
