@@ -13,5 +13,9 @@
         "atomize-client": ">=0.0.12",
         "sockjs": ">=0.1.0"
     },
-    "homepage": "http://atomizejs.github.com/"
+    "homepage": "http://atomizejs.github.com/",
+    "keywords": ["software transactional memory", "stm",
+                 "distribution", "synchronisation", "synchronization",
+                 "rpc", "remote procedure call"
+                ]
 }
