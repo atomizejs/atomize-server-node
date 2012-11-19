@@ -1,7 +1,7 @@
 {
     "name": "atomize-server",
     "author": "Matthew Sackman",
-    "version": "0.4.14",
+    "version": "0.4.15",
     "repository": {
         "type": "git",
         "url": "git://github.com/atomizejs/atomize-server-node.git"
